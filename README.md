@@ -61,6 +61,7 @@ All lists are curated to promote discoverability across:
 | 12 | [SideProjectors](https://sideprojectors.com) | Marketplace | ✅ |
 | 13 | [LaunchIgniter](https://launchigniter.com) | Launch Platform | ✅ |
 | 14 | [PeerPush](https://peerpush.net) | Community Launch | ✅ |
+| 15 | [SaaSCity](https://saascity.io) | Launch Directory | ✅ |
 
 ---
 
