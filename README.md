@@ -143,6 +143,7 @@ Same platforms as above but positioned as PH alternatives — each with a distin
 | 18 | [9Sites](https://9sites.net) | Web Tools |
 | 19 | [Trendy Startups](https://trendystartups.com) | Trending |
 | 20 | [Startup Buffer](https://startupbuffer.com) | Startup Feed |
+| 21 | [MEDIAPRONET](https://mediapronet.com) | Startup & SaaS Directory |
 
 ---
 
